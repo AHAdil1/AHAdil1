@@ -1,19 +1,19 @@
 - 👋 Hi, I’m Abdul Hannan Adil
 - 💡 Final Year Electrical Engineering Student | 🔬 Hardware Enthusiast | 💻 FPGA & AI/ML Explorer
-👀 Interests:
-I'm passionate about Hardware Design, Digital Systems, FPGAs, and AI-driven Accelerators.
-My work revolves around:
-- RISC-V Architectures 🏗️
-- Digital System Design using Verilog and HDL ⚡
-- Control Systems & DSP 📊
-- FPGA-based AI/ML & Cryptography 🔐
-- GPU Programming & Parallel Processing 🚀
-- Compilers & Low-Level System Development 🖥️
-🌱 Currently Learning:
-- Advanced RISC-V Design and Pipelining
-- Fixed-Point Arithmetic for DSP applications
-- Hardware Accelerators for Post-Quantum Cryptography
-- LLVM Compiler Development
+- 👀 Interests:
+- I'm passionate about Hardware Design, Digital Systems, FPGAs, and AI-driven Accelerators.
+- My work revolves around:
+- ✔ RISC-V Architectures 🏗️
+- ✔ Digital System Design using Verilog and HDL ⚡
+- ✔ Control Systems & DSP 📊
+- ✔ FPGA-based AI/ML & Cryptography 🔐
+- ✔ GPU Programming & Parallel Processing 🚀
+- ✔ Compilers & Low-Level System Development 🖥️
+- 🌱 Currently Learning:
+- ● Advanced RISC-V Design and Pipelining
+- ● Fixed-Point Arithmetic for DSP applications
+- ● Hardware Accelerators for Post-Quantum Cryptography
+- ● LLVM Compiler Development
 - 💞️ Looking to Collaborate On:
 - ◆ Open-source RISC-V & FPGA projects
 - ◆︎ Cryptography Implementations on FPGAs
